@@ -35,7 +35,7 @@ def mostrar_resultado(self):
     print(f"Quantidade de RUIM: {self.ruim}")
 ```
 
-A pesquisa padrão é configurada para **50 entrevistados**. Para testes, um modo alternativo executa com 10 entrevistados pré-definidos:
+A pesquisa padrão é configurada para **50 entrevistados**. De exemplo, há um modo alternativo que executa um resultado final de 10 entrevistados pré-definidos:
 
 ```python
 pesquisa = Pesquisa(50)
