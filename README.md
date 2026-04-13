@@ -17,8 +17,9 @@ A lógica central utiliza um laço `for` para iterar sobre os entrevistados e ac
 ```python
 def coletar_dados(self):
     for i in range(1, self.total + 1):
+        # ...
         opiniao = int(input("Opinião: "))
-
+        # ...
         if opiniao == 1:
             self.excelente += 1
         elif opiniao == 3:
