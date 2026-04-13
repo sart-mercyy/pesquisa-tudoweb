@@ -1,4 +1,4 @@
-# :bar_chart: Pesquisa de Satisfação — TudoWeb ![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Pesquisa](https://img.shields.io/badge/Pesquisa_de_Opinião-00BFFF?style=for-the-badge&logo=googleforms&logoColor=white) ![Atendimento](https://img.shields.io/badge/Avaliação:_1%7C2%7C3-32CD32?style=for-the-badge&logo=checkmarx&logoColor=white)
+# :bar_chart: Pesquisa de Satisfação — TudoWeb ![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
 
 > Coleta e analisa o grau de satisfação de clientes com o atendimento da empresa TudoWeb, exibindo ao final a quantidade de respostas Excelente e Ruim.
 
