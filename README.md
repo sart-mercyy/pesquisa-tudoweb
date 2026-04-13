@@ -19,7 +19,7 @@ def coletar_dados(self):
     for i in range(1, self.total + 1):
         # ...
         opiniao = int(input("Opinião: "))
-        # ...
+
         if opiniao == 1:
             self.excelente += 1
         elif opiniao == 3:
@@ -30,6 +30,7 @@ A exibição do resultado final apresenta apenas as categorias extremas (Excelen
 
 ```python
 def mostrar_resultado(self):
+    print("\nRESULTADO FINAL")
     print(f"Quantidade de EXCELENTE: {self.excelente}")
     print(f"Quantidade de RUIM: {self.ruim}")
 ```
